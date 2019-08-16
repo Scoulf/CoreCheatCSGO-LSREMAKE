@@ -2,7 +2,7 @@
 {
     class Settings
     {
-        public static bool WallActive = false;
+        public static bool WallActive = true;
         public static bool aFlashActive = false;
         public static bool radarActive = false;
         public static bool bunnyActive = false;
